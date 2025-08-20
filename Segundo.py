@@ -1,0 +1,6 @@
+nombre = input ("Ingrese su nomnbre: ")
+print (type(nombre))
+cedula = input ("Ingrese su cedula")
+print (type (cedula))
+peso = float(input("Ingrese su peso:")
+             )
