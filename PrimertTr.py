@@ -1,2 +1,5 @@
-print ("Hola mundo")
-print (f"Hola mundo ")
+#Tipos de variables 
+print (10)
+print (10,5)
+print ("Unisangil")
+print (True)
