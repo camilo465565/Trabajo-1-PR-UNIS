@@ -8,5 +8,5 @@ Area_Total = Area_Triangulo + Area_Cuadrado
 
 Precio_metro_cuadrado = 440000
 Precio_total_terreno = Area_Total * Precio_metro_cuadrado
-print ("El area total del terreno ea :", (Area_Total), "metros cuadrados ")
-print ("El precio to del terreno es de :", (Precio_total_terreno, "Pesos"))
+print(f"El area total del terrono es:{Area_Total} mts2")
+print(f"El precio total del terreno es: ${Precio_total_terreno} COP")
